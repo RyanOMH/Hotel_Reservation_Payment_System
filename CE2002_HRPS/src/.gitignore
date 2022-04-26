@@ -1,0 +1,12 @@
+.vscode/settings.json
+bin/
+*.class
+/.classpath
+/.gitignore
+/.metadata/
+/.project
+/Guest.ser
+/Menu.ser
+/Order.ser
+/Reservation.ser
+/Room.ser
